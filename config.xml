@@ -4,7 +4,7 @@
     <preference name="phonegap-version" value="cli-7.1.0" /> <!-- <intelxdk:cordova-cli version="6.2.0"/> -->
 
     
-    <name>dab</name>
+    <name>DAB</name>
     <description>
         
     </description>
