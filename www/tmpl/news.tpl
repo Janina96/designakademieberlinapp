@@ -9,7 +9,7 @@
          
          <h1 class="pink hoehe10 avenirh">News</h1>
           
-         <div class="hoehe3"></div>
+         <div class="hoehe2"></div>
          
          <h3 class="pink hoehe10 avenirm">Vorlesungen bei Prof. Idler fallen aus wegen Krankheit</h3>
                  
@@ -19,7 +19,7 @@
          
         <h3 class="pink hoehe10 avenirm">Infoabend Chinareise am 28. Januar 2018 um 18 Uhr im Audimax</h3>
 
-        <div class="hoehe42"></div>
+        <div class="hoehe41"></div>
          
     </header>    
     
