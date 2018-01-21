@@ -15,6 +15,7 @@
                  
          <h3 class="pink hoehe10 avenirm">Erster Vortrag der Vortragsreihe talking images ist am 11. Januar 2018 um 19 Uhr im Audimax</h3>
          
+         <div class="hoehe2"></div>
          
         <h3 class="pink hoehe10 avenirm">Infoabend Chinareise am 28. Januar 2018 um 18 Uhr im Audimax</h3>
 
